@@ -12,8 +12,11 @@ Set Up a Grammar Correction Script using Google Generative AI Tutorial
 https://www.youtube.com/watch?v=tTckCOenbiA&t=83s
 
 Usage
-
+Get Your Gemini API Key:
+Go to this link to get your API key: https://aistudio.google.com/app/apikey
+    
 Set up API Key: Make sure GEMINI_API_KEY is set with a valid API key.
+
 
     export GEMINI_API_KEY="your_api_key_here"
 

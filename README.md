@@ -8,6 +8,9 @@ Features
 * User-Friendly Interaction: Accepts input through the console, showing corrections or confirming grammatical accuracy.
 * Looped Input: Continuously prompts for sentences until the user types 'exit'.
 
+Set Up a Grammar Correction Script using Google Generative AI Tutorial 
+https://www.youtube.com/watch?v=tTckCOenbiA&t=83s
+
 Usage
 
 Set up API Key: Make sure GEMINI_API_KEY is set with a valid API key.
@@ -21,10 +24,9 @@ Run the Script: Start the grammar correction tool.
 Enter Sentences: Input a sentence to check its grammar. Correct sentences will be confirmed; incorrect ones will display a corrected version.
 
 Code Breakdown
-
-    configure_api(): Configures the API using the GEMINI_API_KEY. Exits with an error if the key is missing.
-    correct_sentence(text): Utilizes the gemini-1.5-flash model to check and correct grammar. Outputs either confirmation or the corrected sentence.
-    main(): Runs a loop to prompt users for input and applies grammar correction until 'exit' is typed.
+configure_api(): Configures the API using the GEMINI_API_KEY. Exits with an error if the key is missing.
+correct_sentence(text): Utilizes the gemini-1.5-flash model to check and correct grammar. Outputs either confirmation or the corrected sentence.
+main(): Runs a loop to prompt users for input and applies grammar correction until 'exit' is typed.
 
 Requirements
 

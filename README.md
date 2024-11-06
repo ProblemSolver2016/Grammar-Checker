@@ -37,9 +37,12 @@ $ python grammar_sentence.py
 
 
 Enter a sentence to check (or type 'exit' to quit): He go to the store.
+
 Incorrect
 Corrected Sentence:
+
 He goes to the store.
+
 Enter a sentence to check (or type 'exit' to quit): exit
 
 This script offers an efficient, easy-to-use way to improve sentence quality!

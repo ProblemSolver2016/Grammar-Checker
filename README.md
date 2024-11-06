@@ -34,6 +34,8 @@ Requirements
 Example
 
 $ python grammar_sentence.py
+
+
 Enter a sentence to check (or type 'exit' to quit): He go to the store.
 Incorrect
 Corrected Sentence:

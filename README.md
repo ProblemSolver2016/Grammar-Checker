@@ -3,10 +3,10 @@ Grammar Correction Script using Google Generative AI
 This Python script, grammar_sentence.py, leverages Google’s Generative AI API (Gemini) to check and correct the grammar of user-provided sentences. It’s ideal for anyone needing automated grammar verification, such as writers, editors, or developers.
 Features
 
-    API Configuration: Integrates with Google’s Generative AI API, requiring a valid GEMINI_API_KEY.
-    Grammar Correction: Analyzes and corrects sentence structure, punctuation, and syntax errors.
-    User-Friendly Interaction: Accepts input through the console, showing corrections or confirming grammatical accuracy.
-    Looped Input: Continuously prompts for sentences until the user types 'exit'.
+* API Configuration: Integrates with Google’s Generative AI API, requiring a valid GEMINI_API_KEY.
+* Grammar Correction: Analyzes and corrects sentence structure, punctuation, and syntax errors.
+* User-Friendly Interaction: Accepts input through the console, showing corrections or confirming grammatical accuracy.
+* Looped Input: Continuously prompts for sentences until the user types 'exit'.
 
 Usage
 
